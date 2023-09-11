@@ -1,0 +1,8 @@
+setup.sh
+
+.venv
+__pycache__
+
+Dockerfile
+
+static/*
