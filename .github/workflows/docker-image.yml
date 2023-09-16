@@ -52,6 +52,6 @@ jobs:
           context: .
           push: true
           tags: |
-            4n4n4s/${{ env.IMAGE_NAME }}:latest
-            ghcr.io/4n4n4s/${{ env.IMAGE_NAME }}:latest
+            4n4n4s/static-flask:latest
+            ghcr.io/4n4n4s/static-flask:latest
           labels: ${{ steps.meta.outputs.labels }}
