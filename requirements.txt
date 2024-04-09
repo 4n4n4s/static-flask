@@ -1,7 +1,7 @@
 blinker==1.7.0
 cffi==1.16.0
 click==8.1.7
-docutils==0.20.1
+docutils==0.21
 Flask==3.0.3
 itsdangerous==2.1.2
 Jinja2==3.1.3
