@@ -1,5 +1,5 @@
 blinker==1.8.2
-cffi==1.17.0
+cffi==1.17.1
 click==8.1.7
 docutils==0.21.2
 Flask==3.0.3
